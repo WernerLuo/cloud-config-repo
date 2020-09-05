@@ -12,8 +12,8 @@ spring:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
   mail:
    host: smtp.163.com
-   username: 13713698270@163.com
-   password: VHCOVKKKLMUTCDYG
+   username: 
+   password: 
    default-encoding: UTF-8
 
 ipFilter:
